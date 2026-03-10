@@ -1,13 +1,14 @@
 ---
 title: "Geospatial Analysis with Python & Jupyter Notebooks"
 layout: "home"
-description: ""
+description: "This tutorial provides detailed walk-throughs of how to use Jupyter Notebooks and open-source Python libraries to perform geospatial analysis."
+created_date: 2025-05-29
 permalink: "/"  #! Remove this if not the homepage
 ---
 
 # Geospatial Analysis with Python & Jupyter Notebooks
 
-This tutorial provides detailed walk\-throughs of how to use Jupyter Notebooks and open\-source Python libraries to perform geospatial analysis.
+This tutorial provides detailed walk-throughs of how to use Jupyter Notebooks and open-source Python libraries to perform geospatial analysis.
 
  
 
@@ -22,4 +23,4 @@ This tutorial provides detailed walk\-throughs of how to use Jupyter Notebooks a
 
 **This tutorial and its contents are hosted on the Map and Data Library's GitHub account. You can download it here:** [**https://github.com/MDLutoronto/SpatialAnalysisJupyter/tree/main**](https://github.com/MDLutoronto/SpatialAnalysisJupyter/tree/main)
 
-Technique: [Spatial Analysis](/technique/spatial-analysis) \| Tools: [Python](/tools/python)**Date Created:** 2025\-05\-29**Updated:** 2025\-09\-26
+Technique: [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [Python](https://mdl.library.utoronto.ca/tools/python)
