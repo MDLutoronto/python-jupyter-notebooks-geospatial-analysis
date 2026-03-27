@@ -5,6 +5,10 @@ description: "This tutorial provides detailed walk-throughs of how to use Jupyte
 staff:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white 
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+
 created_date: 2025-05-29
 permalink: "/"  #! Remove this if not the homepage
 ---
