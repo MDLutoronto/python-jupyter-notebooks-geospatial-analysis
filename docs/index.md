@@ -30,4 +30,4 @@ This tutorial provides detailed walk-throughs of how to use Jupyter Notebooks an
 
 **This tutorial and its contents are hosted on the Map and Data Library's GitHub account. You can download it here:** [**https://github.com/MDLutoronto/SpatialAnalysisJupyter/tree/main**](https://github.com/MDLutoronto/SpatialAnalysisJupyter/tree/main)
 
-Technique: [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
+**Technique:** [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
