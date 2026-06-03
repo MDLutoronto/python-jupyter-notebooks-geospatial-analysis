@@ -4,7 +4,8 @@ layout: "home"
 description: "This tutorial provides detailed walk-throughs of how to use Jupyter Notebooks and open-source Python libraries to perform geospatial analysis."
 staff:
     - name: Cole White
-      link: https://library.utoronto.ca/staff/cole-white 
+      link: https://library.utoronto.ca/staff/cole-white
+    - name: Ryan Siu
 maintainer:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white
